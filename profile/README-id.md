@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.png" width="400px" alt="CrescentSoft Logo">
+    <img src="../assets/logo.png" width="400px" alt="CrescentSoft Logo">
 </p>
 
 <h1 align="center">CrescentSoft</h1>

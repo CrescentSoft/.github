@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="../assets/logo.png" width="400px" alt="CrescentSoft Logo">
+    <img src="https://raw.githubusercontent.com/CrescentSoft/.github/main/assets/logo.png" width="400px" alt="CrescentSoft Logo">
 </p>
 
 <h1 align="center">CrescentSoft</h1>
 
 <p align="center">
-    <a href="./README.md">English</a> |
-    <a href="#">Indonesia</a>
+    <a href="https://github.com/CrescentSoft/.github/blob/main/profile/README.md">English</a> |
+    <a>Indonesia</a>
 </p>
 
 
